@@ -1,0 +1,13 @@
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Debug\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Debug\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Debug\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Debug\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Debug\CryptoSystemExpert.FormSettings.resources

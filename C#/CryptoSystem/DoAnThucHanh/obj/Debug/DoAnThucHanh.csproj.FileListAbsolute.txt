@@ -1,0 +1,27 @@
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe.config
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.pdb
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.Properties.Resources.resources
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.exe
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.pdb
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormSignInUp.resources
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormSignIn.resources
+E:\it_cs\visual_studio\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormSignUp.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe.config
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.exe
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.pdb
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.exe
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\bin\Debug\DoAnThucHanh.pdb
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.csprojResolveAssemblyReference.cache
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormSignInUp.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormSignUp.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.Properties.Resources.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.csproj.GenerateResource.Cache
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormMain.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormChangePass.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormUpdateInfo.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormImport.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormSignCheck.resources
+E:\Cloud\Google Drive\MHTTUD\DoAn\DoAnThucHanh\DoAnThucHanh\obj\Debug\DoAnThucHanh.FormEncryptDecrypt.resources

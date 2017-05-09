@@ -1,0 +1,172 @@
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpert3\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormChangePass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormEncrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormHash.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormImport.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPassword.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormRSAEncryptDecrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormShowPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignInUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSymmetricEncAndDec.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormUpdateInfo.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormViewPublicPrivateKey.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull4\CryptoSystemExpert\bin\Release\Ionic.Zip.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormChangePass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormEncrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormHash.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormImport.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPassword.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormRSAEncryptDecrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormShowPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignInUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSymmetricEncAndDec.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormUpdateInfo.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormViewPublicPrivateKey.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull5\CryptoSystemExpert\bin\Release\Ionic.Zip.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\bin\Release\Ionic.Zip.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormChangePass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormEncrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormHash.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormImport.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPassword.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormRSAEncryptDecrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormShowPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignInUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSymmetricEncAndDec.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormUpdateInfo.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormViewPublicPrivateKey.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull6\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\bin\Release\Ionic.Zip.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormChangePass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormEncrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormHash.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormImport.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPassword.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormRSAEncryptDecrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormShowPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignInUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSymmetricEncAndDec.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormUpdateInfo.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormViewPublicPrivateKey.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\bin\Release\Ionic.Zip.dll
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormChangePass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormEncrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormHash.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormImport.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormInputPassword.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormRSAEncryptDecrypt.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormShowPass.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignInUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSignUp.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSymmetricEncAndDec.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormUpdateInfo.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormViewPublicPrivateKey.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpertFull7 (call dynamic)\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache

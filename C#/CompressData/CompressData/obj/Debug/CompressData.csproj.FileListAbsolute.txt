@@ -1,0 +1,8 @@
+E:\it_cs\visual_studio\CompressData\CompressData\bin\Debug\CompressData.exe.config
+E:\it_cs\visual_studio\CompressData\CompressData\bin\Debug\CompressData.exe
+E:\it_cs\visual_studio\CompressData\CompressData\bin\Debug\CompressData.pdb
+E:\it_cs\visual_studio\CompressData\CompressData\obj\Debug\CompressData.Form1.resources
+E:\it_cs\visual_studio\CompressData\CompressData\obj\Debug\CompressData.Properties.Resources.resources
+E:\it_cs\visual_studio\CompressData\CompressData\obj\Debug\CompressData.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CompressData\CompressData\obj\Debug\CompressData.exe
+E:\it_cs\visual_studio\CompressData\CompressData\obj\Debug\CompressData.pdb

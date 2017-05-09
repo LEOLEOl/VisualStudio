@@ -1,0 +1,12 @@
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe.config
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\Interop.Shell32.dll
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.ResolveComReference.cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\CryptoSystemExpert.pdb
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\bin\Release\gongshell.dll
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormMain.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.FormSettings.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.Properties.Resources.resources
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.exe
+E:\it_cs\visual_studio\CryptoSystemExpert\CryptoSystemExpert\obj\Release\CryptoSystemExpert.pdb

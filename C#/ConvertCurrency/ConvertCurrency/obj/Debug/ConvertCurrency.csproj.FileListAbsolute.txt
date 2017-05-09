@@ -1,0 +1,9 @@
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\bin\Debug\ConvertCurrency.exe.config
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\obj\Debug\ConvertCurrency.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\obj\Debug\ConvertCurrency.Form1.resources
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\obj\Debug\ConvertCurrency.Properties.Resources.resources
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\obj\Debug\ConvertCurrency.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\bin\Debug\ConvertCurrency.exe
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\bin\Debug\ConvertCurrency.pdb
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\obj\Debug\ConvertCurrency.exe
+E:\it_cs\visual_studio\ConvertCurrency\ConvertCurrency\obj\Debug\ConvertCurrency.pdb

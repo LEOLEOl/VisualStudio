@@ -1,0 +1,10 @@
+E:\it_cs\visual_studio\SplitView\SplitView\bin\Debug\SplitView.exe.config
+E:\it_cs\visual_studio\SplitView\SplitView\bin\Debug\SplitView.exe
+E:\it_cs\visual_studio\SplitView\SplitView\bin\Debug\SplitView.pdb
+E:\it_cs\visual_studio\SplitView\SplitView\bin\Debug\gongshell.dll
+E:\it_cs\visual_studio\SplitView\SplitView\obj\Debug\SplitView.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\SplitView\SplitView\obj\Debug\SplitView.Form1.resources
+E:\it_cs\visual_studio\SplitView\SplitView\obj\Debug\SplitView.Properties.Resources.resources
+E:\it_cs\visual_studio\SplitView\SplitView\obj\Debug\SplitView.csproj.GenerateResource.Cache
+E:\it_cs\visual_studio\SplitView\SplitView\obj\Debug\SplitView.exe
+E:\it_cs\visual_studio\SplitView\SplitView\obj\Debug\SplitView.pdb

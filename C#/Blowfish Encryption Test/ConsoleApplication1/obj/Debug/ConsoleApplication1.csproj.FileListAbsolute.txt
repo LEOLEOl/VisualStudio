@@ -1,0 +1,12 @@
+E:\it_cs\visual_studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\it_cs\visual_studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\it_cs\visual_studio\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\it_cs\visual_studio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\it_cs\visual_studio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\it_cs\visual_studio\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\it_cs\visual_studio\Blowfish Encryption Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\it_cs\visual_studio\Blowfish Encryption Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\it_cs\visual_studio\Blowfish Encryption Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\it_cs\visual_studio\Blowfish Encryption Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\it_cs\visual_studio\Blowfish Encryption Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\it_cs\visual_studio\Blowfish Encryption Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

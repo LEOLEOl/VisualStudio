@@ -1,0 +1,1 @@
+Z:\it_cs\visual_studio\CSharp_CrystalReport\CSharp_CrystalReport\bin\Debug\CSharp_CrystalReport.exe.config
